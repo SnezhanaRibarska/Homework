@@ -1,0 +1,1 @@
+SELECT first_name,last_name,salary FROM hr.employees WHERE salary BETWEEN 5000 AND 10000

@@ -1,0 +1,1 @@
+SELECT * FROM hr.employees ORDER BY salary DESC LIMIT 10

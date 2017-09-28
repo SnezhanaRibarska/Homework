@@ -1,0 +1,1 @@
+SELECT first_name,salary FROM hr.employees WHERE salary IN (2500,4000,5000)

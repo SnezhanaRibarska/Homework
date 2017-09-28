@@ -1,0 +1,1 @@
+SELECT * FROM hr.locations WHERE postal_code IS NULL OR state_province IS NULL
